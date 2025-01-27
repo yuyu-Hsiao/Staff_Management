@@ -1,2 +1,8 @@
-﻿  WorkerManager.cpp
-  Project2.vcxproj -> C:\Users\Horace-Hsiao\source\Staff_management\Project2\x64\Debug\Project2.exe
+﻿  Boss.cpp
+  manager.cpp
+  Source.cpp
+  employee.cpp
+  WorkerManager.cpp
+  正在產生程式碼...
+  LINK : 最後的累加連結找不到或未建置 C:\Users\Horace-Hsiao\Documents\GitHub\Staff_Management\Staff_management\Project2\x64\Debug\Project2.exe，正在執行完整連結
+  Project2.vcxproj -> C:\Users\Horace-Hsiao\Documents\GitHub\Staff_Management\Staff_management\Project2\x64\Debug\Project2.exe
